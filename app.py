@@ -2,7 +2,7 @@ import streamlit as st
 import numpy as np
 import matplotlib.pyplot as plt
 
-st.title("Grafica Blaugrana")
+st.title("Grafica José Iván Rodríguez")
 
 st.write("Modifica los valores de m y b para observar cómo cambia la gráfica.")
 
